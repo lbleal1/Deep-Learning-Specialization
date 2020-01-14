@@ -1,5 +1,5 @@
 # Deep-Learning-Specialization
-This repository is solely dedicated to my study of Andrew Ng's Deep Learning Specialization. This repository will track of my progress and my hands-on exercises. My notes can be found as articles in https://medium.com/@lbleal1. (To be published)
+This repository is solely dedicated to my study of Andrew Ng's Deep Learning Specialization. This repository will track of my progress and my hands-on exercises. My notes can be found as articles in https://medium.com/@lbleal1. 
 ![DL Specialization](/assets/dl-specialization.png)
 
 ## It consists of 5 courses, namely:
