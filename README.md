@@ -24,6 +24,27 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
  - [x] Why ML Strategy? 
  - [x] Orthogonalization
 
+**Setting up your goal**
+ - [x] Single number evaluation metric
+ - [x] Satisficing and Optimizing metric 
+ - [x] Train/dev/test distributions
+ - [x] Size of the dev and test sets
+ - [x] When to change dev/test sets and metrics
+
+**Comparing to human-level performance**
+ - [x] Why human level pperformance?
+ - [x] Avoidable bias
+ - [ ] Understanding human-level performance
+ - [ ] Surpassing human-level performance
+ - [ ] Improving your model performance
+ 
+ **Machine Learning Flight Simulator**
+ - [ ] Reading: Machine Learning Flight Simulator
+ - [ ] Quiz: Bird recognition in the city of Peacetopia(case study)
+ 
+ **Heroes of Deep Learning**
+ - [ ] Andrej Karpathy Interview
+ 
 ### :white_check_mark: Week 2: ML Strategy (2)
 
 ![Course 4](/assets/course-4.png)
