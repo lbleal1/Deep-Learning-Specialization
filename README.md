@@ -21,8 +21,8 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 ![Course 3 Desc](/assets/course-3-desc.png)
 ### :white_check_mark: Week 1: ML strategy (1)
 **Introduction to ML Strategy**
- - [ ] Why ML Strategy? 
- - [x]Orthogonalization
+ - [x] Why ML Strategy? 
+ - [x] Orthogonalization
 
 ### :white_check_mark: Week 2: ML Strategy (2)
 
