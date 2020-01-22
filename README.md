@@ -34,19 +34,42 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 **Comparing to human-level performance**
  - [x] Why human level pperformance?
  - [x] Avoidable bias
- - [ ] Understanding human-level performance
- - [ ] Surpassing human-level performance
- - [ ] Improving your model performance
+ - [x] Understanding human-level performance
+ - [x] Surpassing human-level performance
+ - [x] Improving your model performance
  
  **Machine Learning Flight Simulator**
- - [ ] Reading: Machine Learning Flight Simulator
- - [ ] Quiz: Bird recognition in the city of Peacetopia(case study)
+ - [x] Reading: Machine Learning Flight Simulator
+ - [x] Quiz: Bird recognition in the city of Peacetopia(case study)
  
  **Heroes of Deep Learning**
- - [ ] Andrej Karpathy Interview
+ - [x] Andrej Karpathy Interview
  
-### :white_check_mark: Week 2: ML Strategy (2)
-
+### :white_check_mark: Week 2: ML Strategy (2) 
+ **Error Analysis**
+ - [x] Carrying out error analysis
+ - [x] Cleaning up incorrectly labeled data
+ - [x] Build your first system quickly, then iterate
+ 
+ **Mismatched Training and Dev/Test Set**
+ - [x] Training and testing on different distributions
+ - [x] Bias and Variance with mismatched data distributions
+ - [x] Addressing Data Mismatch
+ 
+ **Learning from Multiple Tasks**
+ - [x] Transfer Learning
+ - [x] Multi-task Learning
+ 
+ **End-to-end Deep Learning**
+ - [x] What is end-to-end deep learning?
+ - [x] Whether to use end-to-end deep learning
+ 
+ **Machine Learning Flight Simulator**
+ - [x] Quiz: Autonomous Driving (Case Study)
+ 
+ **Heroes of Deep Learning (Optional)**
+ - [x] Ruslan Salakhutdinov Interview
+ 
 ![Course 4](/assets/course-4.png)
 ![Course 4 Desc](/assets/course-4-desc.png)
 ### :white_check_mark: Week 1: Foundations of Convolutional Neural Networks
