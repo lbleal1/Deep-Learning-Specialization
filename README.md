@@ -19,7 +19,7 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 
 ![Course 3](/assets/course-3.png)
 ![Course 3 Desc](/assets/course-3-desc.png)
-![Certificate](https://www.coursera.org/account/accomplishments/certificate/YXL62BJFM7PB)
+![Certificate](https://github.com/lbleal1/Deep-Learning-Specialization/blob/master/assets/certificates/course-3.png?raw=true)
 ### :white_check_mark: Week 1: ML strategy (1)
 **Introduction to ML Strategy**
  - [x] Why ML Strategy? 
