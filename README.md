@@ -5,7 +5,7 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 ## It consists of 5 courses, namely:
 ![Course 1](/assets/course-1.png)
 ![Course 1 Desc](/assets/course-1-desc.png)
-### :white_check_mark: Week 1: Introduction to Deep Learning
+### :green_check_mark: Week 1: Introduction to Deep Learning
 ### :white_check_mark: Week 2: Neural Networks Basics
 ### :white_check_mark: Week 3: Shallow Neural Networks
 ### :white_check_mark: Week 4: Deep Neural Networks
@@ -19,7 +19,7 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 
 ![Course 3](/assets/course-3.png)
 ![Course 3 Desc](/assets/course-3-desc.png)
-![Certificate](https://www.coursera.org/account/accomplishments/certificate/YXL62BJFM7PB)
+![Certificate](https://github.com/lbleal1/Deep-Learning-Specialization/blob/master/assets/certificates/course-3.png?raw=true)
 ### :white_check_mark: Week 1: ML strategy (1)
 **Introduction to ML Strategy**
  - [x] Why ML Strategy? 
