@@ -1,11 +1,12 @@
 # Deep-Learning-Specialization
-This repository is solely dedicated to my study of Andrew Ng's Deep Learning Specialization. This repository will track of my progress and my hands-on exercises. My notes can be found as articles in https://medium.com/@lbleal1. 
+This repository is solely dedicated to my study of Andrew Ng's Deep Learning Specialization. This repository will track of my progress and my hands-on exercises.
+
 ![DL Specialization](/assets/dl-specialization.png)
 
 ## It consists of 5 courses, namely:
 ![Course 1](/assets/course-1.png)
 ![Course 1 Desc](/assets/course-1-desc.png)
-### :green_check_mark: Week 1: Introduction to Deep Learning
+### :heavy_check_mark: Week 1: Introduction to Deep Learning
 ### :white_check_mark: Week 2: Neural Networks Basics
 ### :white_check_mark: Week 3: Shallow Neural Networks
 ### :white_check_mark: Week 4: Deep Neural Networks
