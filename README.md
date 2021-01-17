@@ -18,12 +18,12 @@ This repository is solely dedicated to my study of Andrew Ng's Deep Learning Spe
 ### :heavy_check_mark: Week 2: ML Strategy (2) 
  
 ## Course 4: Convolutional Neural Networks
-### :white_check_mark: Week 1: Foundations of Convolutional Neural Networks
-### :white_check_mark: Week 2: Deep Convolutional Models: Case Studies
-### :white_check_mark: Week 3: Object Detection
-### :white_check_mark: Week 4: Special Applications: Face Recognition & Neural Style Transfer
+### :heavy_check_mark: Week 1: Foundations of Convolutional Neural Networks
+### :heavy_check_mark: Week 2: Deep Convolutional Models: Case Studies
+### :heavy_check_mark: Week 3: Object Detection
+### :heavy_check_mark: Week 4: Special Applications: Face Recognition & Neural Style Transfer
 
 ## Course 5: Sequence Models
-### :white_check_mark: Week 1: Recurrent Neural Networks
-### :white_check_mark: Week 2: Natural Language Processing & Word Embeddings
-### :white_check_mark: Week 3: Sequence Models & Attention Mechanism
+### :heavy_check_mark: Week 1: Recurrent Neural Networks
+### :heavy_check_mark: Week 2: Natural Language Processing & Word Embeddings
+### :heavy_check_mark: Week 3: Sequence Models & Attention Mechanism
