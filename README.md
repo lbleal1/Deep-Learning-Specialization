@@ -1,6 +1,8 @@
 # Deep-Learning-Specialization
 This repository is solely dedicated to my study of Andrew Ng's Deep Learning Specialization. This repository will track of my progress and my hands-on exercises.
 
+![Cert](/assets/dl-esp.png)
+
 ## Course 1: Neural Networks and Deep Learning
 ### :heavy_check_mark: Week 1: Introduction to Deep Learning
 ### :heavy_check_mark: Week 2: Neural Networks Basics
